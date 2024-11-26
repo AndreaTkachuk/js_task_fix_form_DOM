@@ -5,9 +5,9 @@ let count = 0;
 
 function capitalize(str) {
   const a = str.toLowerCase();
-  const res = a[0].toUpperCase() + a.slice(1);
+  const result = a[0].toUpperCase() + a.slice(1);
 
-  return res;
+  return result;
 }
 
 for (const input of inputs) {

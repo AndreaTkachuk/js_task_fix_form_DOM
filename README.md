@@ -15,6 +15,7 @@ Your task is to make script, which fixes problems in this form.
 1) Add `<label>` for inputs.
 2) Add placeholders for each input.
 
+
 Rely on the `name` of the input when writing your script.
 
 You can read about placeholders and labels here:
